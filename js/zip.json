@@ -1,0 +1,52 @@
+{
+	"key1":{
+		"zip": "10001",
+		"location":"brooklyn bridge park",
+		"time":"May 20, 2017 10 a.m.- 4 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12117.925570251899!2d-74.0007305!3d40.5972014!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74341c64a616cd70!2sBensonhurst+Park!5e0!3m2!1sen!2sus!4v1495066202374\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key2":{
+		"zip": "11237",
+		"sponsor":"Grow NYC",
+		"location":"house of yes",
+		"time":"May 20, 2017 10 a.m.- 4 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.4270630788355!2d-73.92309614667394!3d40.70861426278529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25eab37fd60ef%3A0x1ff34649b0a304c9!2sHouse+of+Yes!5e0!3m2!1sen!2sus!4v1495491635469\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key3":{
+		"zip": "11222",
+		"sponsor":"Valley National Bank",
+		"location":"mccarren park",
+		"time":"May 27, 2017 1 p.m.- 4 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.902211031352!2d-73.95592608456633!3d40.72016917041465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25944b52530b7%3A0xae6cb89b82abe1ae!2sMcCarren+Park%2C+Brooklyn%2C+NY!5e0!3m2!1sen!2sus!4v1495491865365\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key4":{
+		"zip": "11214",
+		"sponsor":"NYC Consumer Affairs",
+		"location":"bensonhurst park",
+		"time":"May 20, 2017 10 a.m.- 4 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12117.925570251899!2d-74.0007305!3d40.5972014!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74341c64a616cd70!2sBensonhurst+Park!5e0!3m2!1sen!2sus!4v1495066202374\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key5":{
+		"zip": "11209",
+		"sponsor":"State Sen. Marty Golden w/ NYC Dept of Environmental Protection",
+		"location":"st anslem rc church",
+		"time":"June 17, 2017 11 a.m.- 3 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d757.0499303921587!2d-74.02790094150964!3d40.62547723728744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1c53ae9cd94f4f8e!2sSt+Anselm+Rc+Church!5e0!3m2!1sen!2sus!4v1495067902603\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key6":{
+		"zip": "11226",
+		"sponsor":"Flatbush Development Corporation",
+		"location":"flatbush food co-op",
+		"time":"June 17, 2017 10 a.m.- 3 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d756.8698274515822!2d-73.96483064745884!3d40.64136360417754!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x19a5e859e4c0aa6d!2sFlatbush+Food+Co-op!5e0!3m2!1sen!2sus!4v1495067059662\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	},
+	"key7":{
+		"zip": "11229",
+		"sponsor":"State Sen. Marty Golden",
+		"location":"marine park",
+		"time":"June 23, 2017 11 a.m.- 3 p.m.",
+		"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12117.146902067057!2d-73.93008557597717!3d40.60149713386823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe8df3a3144de0b75!2sMarine+Park!5e0!3m2!1sen!2sus!4v1495492538856\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+	}
+	
+}
+
